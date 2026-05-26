@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Scripts</text>
+        <Action name="merge_groups_export">
+            <icon></icon>
+            <text>Merge groups…</text>
+            <description>Export the document with marked groups flattened into paint layers, leaving the rest of the hierarchy intact.</description>
+            <iconText>Merge groups</iconText>
+            <activationFlags>10000</activationFlags>
+            <activationConditions>0</activationConditions>
+            <shortcut></shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>

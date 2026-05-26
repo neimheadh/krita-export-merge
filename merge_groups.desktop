@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=merge_groups
+X-Python-2-Compatible=false
+Name=Merge Groups Export
+Comment=Export the document with marked groups flattened into paint layers, leaving the rest of the hierarchy intact.

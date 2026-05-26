@@ -1,0 +1,14 @@
+# Build artifact produced by package.sh
+merge_groups.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
